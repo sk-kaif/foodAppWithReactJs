@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #D9534F;
+    background-color: #F9F9F9;
+    background-color: #5CB85C;
+    background-color: #FFD700;
+    background-color: #333333;
+    background-color: #F5F5F5;
+}
+
+/* 
+.y{border: 1px solid yellow;}
+.b{border: 1px solid black;}
+.p{border: 1px solid pink;} */
+.r{border: 1px solid red;}
